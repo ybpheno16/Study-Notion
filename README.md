@@ -1,4 +1,4 @@
-                      
+                       
 # StudyNotion - EdTech Platform 
 :rocket: [Link to website][https://studynotion-frontend.vercel.app/]
   
